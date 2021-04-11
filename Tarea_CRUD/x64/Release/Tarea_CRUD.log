@@ -1,0 +1,15 @@
+﻿  Tarea_CRUD.cpp
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\CRUD C++ y Mysql\Tarea_CRUD\Tarea_CRUD\Tarea_CRUD.cpp(29,16): warning C4101: 'res': variable local sin referencia
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\CRUD C++ y Mysql\Tarea_CRUD\Tarea_CRUD\Tarea_CRUD.cpp(28,15): warning C4101: 'row': variable local sin referencia
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\CRUD C++ y Mysql\Tarea_CRUD\Tarea_CRUD\Tarea_CRUD.cpp(304,16): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\CRUD C++ y Mysql\Tarea_CRUD\Tarea_CRUD\Tarea_CRUD.cpp(303,15): warning C4101: 'fila': variable local sin referencia
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\CRUD C++ y Mysql\Tarea_CRUD\Tarea_CRUD\Tarea_CRUD.cpp(328,16): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\CRUD C++ y Mysql\Tarea_CRUD\Tarea_CRUD\Tarea_CRUD.cpp(327,15): warning C4101: 'fila': variable local sin referencia
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\CRUD C++ y Mysql\Tarea_CRUD\Tarea_CRUD\Tarea_CRUD.cpp(351,16): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\CRUD C++ y Mysql\Tarea_CRUD\Tarea_CRUD\Tarea_CRUD.cpp(350,15): warning C4101: 'fila': variable local sin referencia
+  Generando código
+  4 of 150 functions ( 2.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Tarea_CRUD.vcxproj -> C:\Users\Juárez Arevalo\Desktop\Archivos Jos\2-Universidad\Tercer Semestre\Programacion I\Modulo 2\CRUD C++ y Mysql\Tarea_CRUD\x64\Release\Tarea_CRUD.exe
